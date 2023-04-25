@@ -1,10 +1,15 @@
+import { Template } from '@angular/compiler/src/render3/r3_ast';
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  //Nombre del componente (environment/index.html)
+  selector: "app-component",
+
+  //Archivo de Trabajo HTML
+  templateUrl: './app.component.html'
 })
+
 export class AppComponent {
-  title = 'bases';
+  public titulo: string = "Mi pagina web";
+
 }

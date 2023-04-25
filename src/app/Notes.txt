@@ -1,0 +1,33 @@
+
+
+
+
+"ng serve -o"                       Run Debug Project and Open Localhost
+"ng g c Dir/NameComp"               Angular CLI Generate a Component on Phat: Dir/NameComp
+
+git init                            Reinicialized Git Repository
+git add .                           Preparate My Project to GIT HUB
+
+
+Abrir Terminal	                    Ctrl + '
+Borrar linea	                    Ctrl + Shift + K
+Insertar linea abajo	            Enter
+Insertar linea arriba	            Ctrl + Shift + Enter           
+Cierra VS Code                      Ctrl + Shift + W
+Abre el buscador del doc            Ctrl + F
+Abre el buscador del Proyecto       Ctrl + Shift + F
+Acercar Zoom:                       CTRL + +
+Alejar Zoom:                        CTRL + –
+Abrir terminal integrado:           CTRL + Shift + Ñ
+Pantalla completa:                  F11
+Navegar entre Pestañas              Ctrl + Tab
+Navegar entre Pestañas              Alt + No.Pestaña(1,2,3...)
+Cierra todas las pestañas           Ctrl + K + Ctrl + W
+Documentar Linea                    Alt + Shift + A
+Escritura Multiple                  Alt + Click
+
+***********************************************************************************
+WORK!!!
+
+Create Module to do...
+A button to display panel for modify payment
