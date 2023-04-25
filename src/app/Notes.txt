@@ -1,12 +1,10 @@
 
-
-
-
 "ng serve -o"                       Run Debug Project and Open Localhost
 "ng g c Dir/NameComp"               Angular CLI Generate a Component on Phat: Dir/NameComp
 
 git init                            Reinicialized Git Repository
 git add .                           Preparate My Project to GIT HUB
+git checkout -- .                   Return to last release or Backup
 
 
 Abrir Terminal	                    Ctrl + '
